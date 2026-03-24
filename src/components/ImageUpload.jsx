@@ -30,13 +30,12 @@ function ImageUpload() {
               width: "80px",
               height: "80px",
               objectFit: "cover",
-              borderRadius: "10px",   // 👈 like chat style
+              borderRadius: "10px",   // 👈 like chat stjrkedneyle
               border: "1px solid #ccc"
             }}
           />
         ))}
       </div>
-
     </div>
   );
 }
